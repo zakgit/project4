@@ -639,6 +639,10 @@ button:focus {
   color: #fff;
 }
 
+.our-services-section ul li{
+  list-style: disc;
+}
+
 /* ==========================================================================
   6. Features Section Style
    ========================================================================== */
@@ -1048,6 +1052,22 @@ button:focus {
 
 .owl-theme .owl-controls {
   margin-top: 20px;
+}
+
+.success-stories .section-title{
+  color: #fff;
+}
+
+.success-stories-content{
+  text-align: center;
+}
+
+.success-stories-content i{
+  font-size: 30px;
+}
+
+.success-stories-content p{
+  font-size: 16px;
 }
 
 /* ==========================================================================
