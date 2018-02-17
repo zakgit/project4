@@ -592,6 +592,10 @@ button:focus {
     background: #f8f9fa;
     color: #61D2B4;
   }
+
+  .show-box{
+    display: none;
+  }
 }
 
 /* ==========================================================================
@@ -958,6 +962,7 @@ button:focus {
 
 .pricing-table .pricing-details ul {
   margin-bottom: 0px;
+  padding-left: 30px;
 }
 
 .pricing-table .pricing-details ul li {
