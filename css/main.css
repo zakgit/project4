@@ -1025,6 +1025,32 @@ button:focus {
   color: #fff;
 }
 
+.plus-minus-holder{
+    position: relative;
+    width: 20px;
+    display: inline-block;
+    height: 22px;
+}
+
+.plus-minus-holder i{
+  font-size: 14px;
+  position: absolute;
+}
+
+.pmm{
+  font-size: 27px;
+}
+
+.plus-minus-holder i.pmp{
+  top: 0;
+}
+
+.plus-minus-holder i.pmm{
+  bottom: -4px;
+}
+
+
+
 /* ==========================================================================
 11. Testimonial Section Style
  ========================================================================== */
