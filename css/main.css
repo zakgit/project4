@@ -1370,3 +1370,17 @@ footer {
 .copyright p a:hover {
   color: #61D2B4;
 }
+
+
+@media (min-width: 576px)
+  .#portfolios .portfolio-item img {
+      top: 0;
+  }
+}
+
+@media (min-width: 575px)
+  .#portfolios .portfolio-item img {
+      top: -65px;
+  }
+}
+
