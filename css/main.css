@@ -1371,6 +1371,27 @@ footer {
   color: #61D2B4;
 }
 
+.language-switch-button {
+    position: fixed;
+    right: 0;
+    top: 100px;
+    height: 30px;
+    width: 40px;
+    background: #62d2b4;
+    box-shadow: 0 0 30px #999;
+    z-index: 1;
+    border-radius: 10px 0 0 10px;
+    padding: 0px 0px 0 0px;
+    text-align: center;
+    border-right: 0;
+}
+
+.language-switch-button a, .language-switch-button a:focus, .language-switch-button a:visited, .language-switch-button a:active{
+  color: #fff;
+  display: block;
+  height: 30px;
+  padding-top: 5px;
+}
 
 @media (min-width: 576px)
   .#portfolios .portfolio-item img {
