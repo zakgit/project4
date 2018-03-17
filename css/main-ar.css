@@ -974,7 +974,8 @@ button:focus {
 
 .pricing-table .pricing-details ul {
   margin-bottom: 0px;
-  padding-left: 30px;
+  padding-left: 0;
+  padding-right: 30px;
 }
 
 .pricing-table .pricing-details ul li {
@@ -982,6 +983,7 @@ button:focus {
   font-size: 18px;
   border-bottom: 0px dotted #f1f1f1;
   list-style: disc;
+  text-align: right;
 }
 
 .table-left {
