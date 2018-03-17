@@ -1389,5 +1389,27 @@ footer {
   .#portfolios .portfolio-item img {
       top: -65px;
   }
+
+  .slicknav_btn {
+    border-color: #61D2B4;
+    float: left;
+    margin: 10px;
+  }
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
